@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ketan3 
-- 👀 I’m interested in web devlopment
-- 🌱 I’m currently learning java script 
+- 👀 I’m interested in web devlopment and java
+- 🌱 I’m currently learning Java and Web devlopment
 - 💞️ 
 - 📫 
 
