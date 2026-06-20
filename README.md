@@ -6,7 +6,7 @@
 - 🏗️ Built **Student Information System ERP** (FastAPI + PostgreSQL + JWT RBAC + Next.js)
 - 📄 Published ML research on **AQI Prediction** in IJSREM (April 2026)
 - 🌱 Learning **Java DSA** + sharpening Full Stack skills
-- 🎯 Seeking **SDE-1** roles | GSoC 2026 aspirant
+- 🎯 Seeking **SDE-1** roles | GSoC 2027 aspirant
 - 📍 Pune, India
 
 ---
