@@ -22,8 +22,6 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub followers](https://img.shields.io/github/followers/ketan3?style=social)
-![GitHub stars](https://img.shields.io/github/stars/ketan3?style=social)
 ![Ketan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ketan3&show_icons=true&theme=tokyonight)
 
 <!---
