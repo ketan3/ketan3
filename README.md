@@ -22,7 +22,9 @@
 ---
 
 ### 📊 GitHub Stats
-![Ketan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ketan3&show_icons=true&theme=tokyonight)
+![Ketan's GitHub Stats](https://github-stats-extended.vercel.app/api?username=ketan3&show_icons=true&theme=tokyonight)
+
+
 
 <!---
 ketan3/ketan3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
